@@ -20,7 +20,7 @@ This script automates the installation of Ghidra, a powerful software reverse en
 # 📸 Screenshots
 
 ### Main Interface
-![Main Interface](https://github.com/hackerassociate/Automate-Sublime-Install/blob/main/Install-Screenshot-1.png)
+![Main Interface](https://github.com/hackerassociate/Automate-Ghidra-Installation/blob/main/Kali-Setup-Ghidra.png)
 
 The script:
 - Installs all required dependencies (e.g., Java 17, wget, unzip)
