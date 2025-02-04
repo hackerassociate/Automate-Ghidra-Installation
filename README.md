@@ -17,6 +17,11 @@ This script automates the installation of Ghidra, a powerful software reverse en
 ### Overview
 This script automates the installation of Ghidra, a powerful software reverse engineering suite, on Kali Linux. It works seamlessly in both root and non-root environments, ensuring a smooth setup process.
 
+# 📸 Screenshots
+
+### Main Interface
+![Main Interface](https://github.com/hackerassociate/Automate-Sublime-Install/blob/main/Install-Screenshot-1.png)
+
 The script:
 - Installs all required dependencies (e.g., Java 17, wget, unzip)
 - Downloads and extracts the latest version of Ghidra
