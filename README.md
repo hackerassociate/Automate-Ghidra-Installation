@@ -40,3 +40,40 @@ The script:
    Save the script to your system as `kali-ghidra-installer.sh`
 
 2. **Make the Script Executable**
+
+
+---
+
+## 📜 License
+This code is licensed under Hacker Associate™. Any unauthorized use, reproduction, or distribution of this code without explicit written permission from Hacker Associate is strictly prohibited. 
+
+For licensing inquiries, please contact:
+
+🌐 [www.hackerassociate.com](https://www.hackerassociate.com)
+📧 info@hackerassociate.com
+
+---
+
+## 👨‍💻 Author
+
+- **Harshad Shah**
+- 🌐 Website: [Hacker Associate](https://www.hackerassociate.com)
+  
+---
+
+## 🛡️ For Offensive Black Hat Trainings
+
+If you're interested in **Offensive Black Hat Trainings**, check out [Hacker Associate](https://www.hackerassociate.com) for more information and resources.
+
+![Cybersecurity Certifications](https://github.com/hackerassociate/json-analyzer-for-pentester/blob/main/certification.png)
+
+---
+
+## 🆘 Support
+
+If you encounter any issues or have questions, feel free to:
+- 🐛 Open an issue in the repository.
+- 📧 Contact the author via the [Hacker Associate website](https://www.hackerassociate.com).
+
+---
+
