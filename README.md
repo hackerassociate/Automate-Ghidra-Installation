@@ -19,6 +19,12 @@ This script automates the installation of Ghidra, a powerful software reverse en
 
 # 📸 Screenshots
 
+```
+┌──(root㉿kali-linux-2024-2)-[/home/parallels/Desktop]
+└─# ./Automate-Ghidra-Installation-Kali-Script.sh 
+
+```
+
 ### Main Interface
 ![Main Interface](https://github.com/hackerassociate/Automate-Ghidra-Installation/blob/main/Kali-Setup-Ghidra.png)
 
