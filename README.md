@@ -12,6 +12,8 @@ This script automates the installation of Ghidra, a powerful software reverse en
 [![Website](https://img.shields.io/badge/Website-hackerassociate.com-green.svg)](https://hackerassociate.com)
 [![Training](https://img.shields.io/badge/Training-blackhattrainings.com-red.svg)](https://blackhattrainings.com)
 
+### [HackerAssociate](https://hackerassociate.com) | [BlackHatTrainings](https://blackhattrainings.com)
+
 ### Overview
 This script automates the installation of Ghidra, a powerful software reverse engineering suite, on Kali Linux. It works seamlessly in both root and non-root environments, ensuring a smooth setup process.
 
