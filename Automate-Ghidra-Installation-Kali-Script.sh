@@ -98,8 +98,8 @@ mkdir -p "$GHIDRA_DIR"
 cd "$GHIDRA_DIR" || exit 1
 
 # Download Ghidra
-GHIDRA_VERSION="11.3"
-GHIDRA_RELEASE="20250205"
+GHIDRA_VERSION="11.3.1"
+GHIDRA_RELEASE="20250219"
 GHIDRA_FILE="ghidra_${GHIDRA_VERSION}_PUBLIC_${GHIDRA_RELEASE}.zip"
 GHIDRA_URL="https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_${GHIDRA_VERSION}_build/${GHIDRA_FILE}"
 
