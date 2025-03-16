@@ -35,7 +35,7 @@ print_banner() {
     echo -e "${GREEN}"
     echo "╔═══════════════════════════════════════════╗"
     echo "║       Ghidra Installer for Kali Linux     ║"
-    echo "║            By: Harshad Shah              ║"
+    echo "║          By: Harshad Shah & Bornunique911 ║"
     echo "╚═══════════════════════════════════════════╝"
     echo -e "${NC}"
 }
@@ -79,7 +79,7 @@ apt update && apt upgrade -y || {
 
 # Install required packages
 print_message "Installing required packages..."
-apt install -y openjdk-17-jdk openjdk-17-jre unzip wget curl git || {
+apt install -y openjdk-21-jdk openjdk-21-jre unzip wget curl git || {
     print_error "Failed to install required packages"
     exit 1
 }
@@ -98,8 +98,8 @@ mkdir -p "$GHIDRA_DIR"
 cd "$GHIDRA_DIR" || exit 1
 
 # Download Ghidra
-GHIDRA_VERSION="11.0"
-GHIDRA_RELEASE="20231222"
+GHIDRA_VERSION="11.3.1"
+GHIDRA_RELEASE="20250219"
 GHIDRA_FILE="ghidra_${GHIDRA_VERSION}_PUBLIC_${GHIDRA_RELEASE}.zip"
 GHIDRA_URL="https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_${GHIDRA_VERSION}_build/${GHIDRA_FILE}"
 
